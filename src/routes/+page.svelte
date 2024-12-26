@@ -4,12 +4,10 @@
 	let texts = [
 		// Affirmative
 		"Yes", "Definitely", "Certainly", "Absolutely", "Of course",
-		"Sure", "Agreed", "Alright", "Okay", "Fine", "Affirmative",
-		"Indeed", "Aye", "Right", "Totally",
 
 		// Negative
-		"No", "Never", "Absolutely not", "Not at all", "Negative",
-		"Nope", "Nah", "Not really", "No way", "By no means",
+		"No", "Absolutely not", "Not at all", "Negative",
+		"Nope", "Nah", "Not really", "No way",
 
 		// Uncertain
 		"Maybe", "Perhaps", "Possibly", "Probably", "Could be",
@@ -19,12 +17,12 @@
 		"Hmm", "Err", "Uh-huh", "Well…", "Let me think",
 		"I guess", "Not exactly",
 
-		// Agreement/Disagreement Nuances
-		"Sounds good", "Agreed", "Disagreed", "That works",
-		"Not quite", "Fair enough",
+
 
 		// Others
 		"Why not", "I don’t think so"
+
+
 	];
 	let selectedText = "";
 
